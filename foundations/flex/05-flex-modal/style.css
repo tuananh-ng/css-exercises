@@ -44,6 +44,11 @@ body {
   justify-content: space-between;
 }
 
+.header {
+  font-weight: bold;
+  font-size: 20px;
+}
+
 .close-button {
   background: #eee;
   border-radius: 50%;
