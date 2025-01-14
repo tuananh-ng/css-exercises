@@ -35,6 +35,7 @@ body {
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
+  margin: 10px;
 }
 
 .header-and-close {
