@@ -20,6 +20,7 @@ body {
 .left-part,
 .right-part {
   display: flex;
+  gap: 16px;
 }
 
 .profile-image {
@@ -54,4 +55,5 @@ a {
 ul {
   list-style-type: none;
   display: flex;
+  gap: 16px;
 }
