@@ -35,6 +35,10 @@ input {
   padding: 8px;
 }
 
+.footer {
+  background-color: #eeeeee;
+}
+
 ul {
   display: flex;
   gap: 8px;
