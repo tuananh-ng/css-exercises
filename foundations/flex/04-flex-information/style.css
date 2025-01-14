@@ -5,6 +5,7 @@ body {
 img {
   width: 100px;
   height: 100px;
+  align-self: center;
 }
 
 .title {
@@ -25,6 +26,8 @@ img {
 .pepper,
 .saffron {
   flex-basis: 200px;
+  display: flex;
+  flex-direction: column;
 }
 
 .text {
