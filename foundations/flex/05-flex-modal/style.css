@@ -41,6 +41,7 @@ body {
 
 .header-and-close {
   display: flex;
+  justify-content: space-between;
 }
 
 .close-button {
