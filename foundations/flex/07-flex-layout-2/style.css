@@ -43,6 +43,7 @@ body {
 .cards {
   display: flex;
   padding: 48px;
+  flex-flow: row wrap;
 }
 
 .card {
