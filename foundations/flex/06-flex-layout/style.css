@@ -39,6 +39,13 @@ input {
   background-color: #eeeeee;
 }
 
+.content {
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  align-items: center;
+}
+
 ul {
   display: flex;
   gap: 8px;
