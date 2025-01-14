@@ -47,6 +47,10 @@ input {
   gap: 8px;
 }
 
+.buttons button {
+  padding: 8px;
+}
+
 ul {
   display: flex;
   gap: 8px;
