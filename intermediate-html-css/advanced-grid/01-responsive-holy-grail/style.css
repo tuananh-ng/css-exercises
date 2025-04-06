@@ -5,6 +5,10 @@ html {
 }
 
 .container {
+  display: grid;
+  gap: 15px;
+  grid-template-columns: minmax(150px, 1fr) minmax(450px, 3fr);
+  grid-template-rows: repeat(2, minmax(100px, 1fr)) minmax(500px, 5fr) repeat(2, minmax(100px, 1fr));
   text-align: center;
   height: 100%;
   padding: 16px;
